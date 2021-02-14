@@ -1,4 +1,4 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "A change is a coming! nishanthakumar change now openshift web console "\n";
+print "A change is a coming! nishanthakumar web console"  "\n"; 
 ?>
